@@ -1,0 +1,6 @@
+/Users/Lucero/Projects/GrandCircusDeliverable2/GrandCircusDeliverable2/bin/Debug/GrandCircusDeliverable2.exe
+/Users/Lucero/Projects/GrandCircusDeliverable2/GrandCircusDeliverable2/bin/Debug/GrandCircusDeliverable2.pdb
+/Users/Lucero/Projects/GrandCircusDeliverable2/GrandCircusDeliverable2/obj/x86/Debug/GrandCircusDeliverable2.csprojAssemblyReference.cache
+/Users/Lucero/Projects/GrandCircusDeliverable2/GrandCircusDeliverable2/obj/x86/Debug/GrandCircusDeliverable2.csproj.CoreCompileInputs.cache
+/Users/Lucero/Projects/GrandCircusDeliverable2/GrandCircusDeliverable2/obj/x86/Debug/GrandCircusDeliverable2.exe
+/Users/Lucero/Projects/GrandCircusDeliverable2/GrandCircusDeliverable2/obj/x86/Debug/GrandCircusDeliverable2.pdb
