@@ -94,6 +94,8 @@ namespace GrandCircusDeliverable2
             Console.WriteLine(" ");
 
             Console.WriteLine("Goodbye");
+
+            Console.ReadKey();
         }
     }
 }
